@@ -155,7 +155,7 @@ def main():
     st.sidebar.markdown("####")
     st.sidebar.subheader(":notebook_with_decorative_cover: Par Maxime Le Tutour :relieved: ")
 
-    st.sidebar.write(" :blue_book: [**LinkedIn**](https://share.streamlit.io/mesmith027/streamlit_webapps/main/MC_pi/streamlit_app.py)", unsafe_allow_html =True)
+    st.sidebar.write(" :blue_book: [**LinkedIn**](https://www.linkedin.com/in/maxime-le-tutour-95994795/)", unsafe_allow_html =True)
 
    
 
